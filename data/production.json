@@ -1,14 +1,14 @@
 [
   {
     "name":"chrome phone",
-    "price":23445,
-  }
+    "price":23445
+  },
   {
     "name":"Iphone 10",
-    "price":28000,
-  }
+    "price":28000
+  },
   {
     "name":"zefone 7",
-    "price":15000,
-  }
+    "price":15000
+  },
 ]
